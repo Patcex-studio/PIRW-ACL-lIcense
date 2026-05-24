@@ -61,7 +61,7 @@ License-URL: https://github.com/Patcex-studio/PIRW-ACL-lIcense/blob/main/LICENSE
 
 **Add the badge to your README:**
 ```markdown
-[![PIRW-ACL](https://img.shields.io/badge/License-PIRW--ACL--1.0-blue)](LICENSE)
+[![License: PIRW-ACL v1.0](https://img.shields.io/badge/License-PIRW--ACL--1.0-blue)](https://github.com/Patcex-studio/PIRW-ACL-lIcense/blob/main/LICENSE)
 ```
 
 **Add JSON-LD metadata to your HTML:**
@@ -240,4 +240,4 @@ See [LICENSE §17.1](LICENSE#L400) for full details.
 
 ## Badge
 
-[![PIRW-ACL](https://img.shields.io/badge/License-PIRW--ACL--1.0-blue)](LICENSE)
+[![License: PIRW-ACL v1.0](https://img.shields.io/badge/License-PIRW--ACL--1.0-blue)](https://github.com/Patcex-studio/PIRW-ACL-lIcense/blob/main/LICENSE)
