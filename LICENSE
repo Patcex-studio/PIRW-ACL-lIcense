@@ -1,0 +1,291 @@
+## **PUBLIC IDEAS & RESEARCH WAREHOUSE (PIRW) LICENSE – ARGUED CUSTOM LICENSE**  
+
+*Preamble*  
+This Public Ideas & Research Warehouse (PIRW) License (the “License”) is made and entered into as of **24.05.2026** (the “Effective Date”) by and between the Contributor (the “Licensor”) and any User who accesses, downloads, or otherwise uses a Work deposited in the PIRW Repository (the “Repository”).  
+
+---
+
+## 1. Definitions  
+
+# Definitions for the Public Ideas & Research Warehouse License
+
+**Work**  
+Any text, data, diagram, dataset, protocol, idea sketch, pre‑print, or finished publication deposited in the Repository.  
+*Broad definition captures raw scientific concepts as well as complete outputs, ensuring the License covers everything stored in the Warehouse.*
+
+**Repository**  
+The designated “Public Ideas & Research Warehouse” and its mirrors, including any authorized sub‑domains or linked archives.  
+*Clarifies that all copies hosted elsewhere are still subject to the same terms, preventing jurisdiction‑shopping.*
+
+**Adaptation / Derivative**  
+Any modification, translation, update, extraction, or remix that involves substantive changes to the Work’s structure, data, or methodology and retains recognizable elements of the original Work. The term does not include: (i) mere reproduction; (ii) extraction of unprotected facts, data points, or short quotations; (iii) inclusion of a citation or reference in a bibliography.  
+*A broad definition ensures legitimate follow‑on research, which often re‑uses data or code, is covered without loopholes.*
+
+**Non‑Commercial (NC)**  
+Use that is not primarily intended for commercial advantage or monetary compensation. The definition includes a non‑exhaustive list of permissible activities (personal research, academic teaching, non‑profit outreach) and a list of prohibited activities (selling the Work, using it as the primary basis for a commercial product, marketing, or licensing for profit).  
+*The list helps users understand what counts as commercial use while preserving flexibility for small‑scale or “open‑business” activities.*
+
+**Commercial Use**  
+Any activity that generates direct or indirect revenue, including but not limited to licensing, selling, sponsoring, integrating the Work into a revenue‑generating service (e.g., SaaS, API, subscription platform), or otherwise monetizing the Work, regardless of the pricing model (per‑use, freemium, advertising‑supported).  
+*Aligns with the NC definition but emphasizes the commercial motive, ensuring clarity for enforcement.*
+
+**Share‑Alike (SA)**  
+A licensing condition that requires any Adaptation to be distributed under the same license terms, including the same commercial‑use tier and attribution requirements.  
+*Mirrors the CC‑BY‑SA model, encouraging collaborative, open‑source style sharing while preventing downstream works from imposing more restrictive terms.*
+
+**Attribution (Credit)**  
+The acknowledgment of the Contributor(s) and the Repository source in a manner that is clear, prominent, and machine‑readable (e.g., BibTeX, schema.org JSON‑LD).  
+*Machine‑readable attribution enables automated citation tools and data‑mining services to respect the creator’s rights without manual oversight.*
+
+**Moral Rights**  
+The Contributor’s rights to be identified as the author of the Work and to object to any derogatory treatment that harms the Contributor’s reputation.  
+*Protects the personal and reputational interests of authors, especially for raw scientific concepts where commercial exploitation may be absent.*
+
+**Idea Priority Evidence**  
+The timestamped, immutable record created when a Contributor deposits a raw idea, hypothesis, or unfinished draft in the Repository, which serves as public proof of priority for that idea.  
+*Functions as a defensive publication, protecting Contributors’ potential patent rights while preserving the open‑access ethos.*
+
+**DRM / TPM**  
+Any software, hardware, or algorithmic mechanism used to restrict, monitor, or condition the use of a Work beyond the rights expressly granted by this License.  
+*Prohibition ensures that the open‑science principle is not undermined by hidden usage controls.*
+
+**Repository Operator**  
+The entity or persons responsible for hosting, archiving, and redistributing Works in the Repository, including the PIRW Steering Committee (the “Steward”).  
+*Clarifying the Operator’s role ensures that the Repository can maintain continuity even if individual Contributors withdraw Works.*
+
+**Licensee**  
+Any person, legal entity, or algorithm that accesses, downloads, or otherwise uses a Work under this License.  
+*The term is intentionally broad to capture both human users and automated agents that may process the Works.*
+
+**Steward**  
+The governing body (e.g., the PIRW Steering Committee) authorized to interpret, amend, and version this License, and to issue guidance on implementation.  
+*A centralized Steward provides consistency and ensures that updates are coordinated across the global network of mirrors.*
+
+**Commercial‑Allowed**  
+A designation selected by the Contributor at the time of deposit indicating that the Work may be used for commercial purposes under the terms of this License without requiring additional permission.  
+*Gives Contributors control over monetization while preserving the default non‑commercial openness.*
+
+**NC‑Default**  
+The default assumption, unless overridden by an explicit Commercial‑Allowed designation, that the Work may only be used for Non‑Commercial purposes as defined in Section 4.  
+*Protects the Contributor’s intent while still allowing easy opt‑in for commercial exploitation.*
+
+**Open Business Exception**  
+Use of the Work by an entity or individual shall be considered Non‑Commercial if all of the following conditions are met:  
+• the entity’s total annual gross revenue (or individual’s gross income from all sources) does not exceed **USD 500,000** in the most recently completed fiscal year;  
+• the Work is not sold, licensed, or directly monetised as a standalone product;  
+• the use is primarily for research, educational, or charitable purposes.  
+*Captures the vast majority of academic labs, individual researchers, and small‑scale innovators, while protecting against exploitation by medium or large corporations.*
+
+**Adaptation Exception**  
+The right to prepare, store, and internally use Adaptations of the Work for Non‑Commercial purposes without any additional permission. This right does not include the right to distribute or publicly perform the Adaptation unless the conditions of Section 7 are satisfied.  
+*Enables scientific progress by allowing iterative experimentation without asking first.*
+
+---
+
+## 2. License Architecture and Acceptance  
+
+1. **Standalone, Modular Instrument** – This License shall be a standalone, modular legal instrument, not a derivative of any existing public license, but shall draw inspiration from proven frameworks such as Creative Commons, Open Data Commons, and the Open Definition. *Commentary: By being modular, the License can be combined with other licenses or added to future legal instruments, providing flexibility for evolving open‑science needs.*  
+
+2. **Effective upon Access** – This License shall be deemed accepted automatically by any act of accessing, downloading, or using a Work deposited in the Repository. *Commentary: Automatic acceptance ensures that every user is immediately bound by the same transparent terms, reinforcing trust in the open‑warehouse model.*  
+
+3. **Acceptance by Conduct** – The License is a unilateral offer; no signature, click‑wrap, or registration is required. If a Licensee does not accept, the Licensee must cease all use of the Work. *Commentary: Removes unnecessary bureaucracy, allowing immediate use of open content.*  
+
+---
+
+## 3. Grant of Rights  
+
+**3.1 Unconditional Public Warehouse Rights** – Every Licensee shall be granted a worldwide, royalty‑free, non‑exclusive, perpetual (subject to termination) license to:  
+
+- (a) reproduce the Work in any medium or format;  
+- (b) publicly display, perform, or broadcast the Work;  
+- (c) index, crawl, and text‑and‑data‑mine the Work for any purpose, including commercial data mining.  
+
+*Commentary: Provides the core function of a public warehouse—anyone can discover and reuse content without prior permission.*  
+
+**3.2 Right to Prepare Adaptations (Non‑Commercial)** – Every Licensee shall be granted the right to prepare, store, and internally use Adaptations of the Work for Non‑Commercial purposes without any additional permission. This right does not include the right to distribute or publicly perform the Adaptation unless the conditions of Section 7 are satisfied. *Commentary: Enables scientific progress by allowing iterative experimentation without asking first.*  
+
+**3.3 Commercial Adaptation Gate** – The right to prepare Adaptations for Commercial purposes, or to distribute any Adaptation (whether for Commercial or Non‑Commercial use) shall be governed by the Contributor’s commercial‑use tier:  
+
+- **NC‑Default Works** – No Commercial adaptation or distribution is permitted unless the Contributor grants a separate written waiver.  
+- **Commercial‑Allowed Works** – Licensees may prepare and distribute Adaptations for any purpose, provided the other License conditions (attribution, etc.) are met.  
+
+*Commentary: Gives Contributors control over monetization while preserving the default openness for non‑commercial innovation.*  
+
+**3.4 Commercial Waiver Request** – The Repository shall provide a standard “Commercial Waiver Request” button for NC‑Default Works. The Contributor may grant a waiver through a simple online mechanism; the existence of this button does not oblige the Contributor to respond. *Commentary: Simplifies the path for businesses that wish to use a Work for profit without having to locate the Contributor directly.*  
+
+---
+
+## 4. Robust Attribution Chain (Anti‑Ghosting)  
+
+**4.1 Attribution Retention** – All copies, Adaptations, and derivative works shall retain attribution to the original Contributor(s) and to the Repository source. *Commentary: Prevents “ghost authorship” and ensures proper credit for ideas.*  
+
+**4.2 Machine‑Readable Attribution** – Attribution shall be provided in a machine‑readable format (e.g., BibTeX, schema.org JSON‑LD) and shall be embedded in any machine‑readable metadata accompanying the Work. *Commentary: Enables automated citation tools and data‑mining services to respect the creator’s rights without manual oversight.*  
+
+**4.3 Cumulative Attribution Chain** – For any Adaptation, the attribution shall include all upstream Contributors, the Repository source, and any intervening Adaptations, forming an unbreakable chain. *Commentary: A cumulative chain ensures transparency in the lineage of ideas, crucial for reproducibility and credit.*  
+
+**4.4 Reasonable to the Medium** – Attribution shall be “reasonable to the medium” (e.g., prominent in printed publications, visible in web pages, included in API responses) but shall not permit hiding authors behind obscure hyperlinks or click‑through barriers. *Commentary: Balances user convenience with the need for clear credit, avoiding deceptive presentation.*  
+
+**4.5 Prohibition of Attribution Falsification** – Any removal, alteration, or falsification of attribution shall constitute an automatic, incurable material breach of this License. *Commentary: Prevents “ghost authorship” and ensures proper credit for ideas.*  
+
+---
+
+## 5. Moral Rights and Integrity Protection (Reasoned Shield)  
+
+**5.1 Retention of Moral Rights** – The Contributor shall retain all moral rights, including the right to be identified as the author of the Work and the right to object to any derogatory treatment that harms the Contributor’s reputation. These rights shall not be waived by this License. *Commentary: Protects the personal and reputational interests of authors, especially for raw scientific concepts where commercial exploitation may be absent.*  
+
+**5.2 Prohibition of Distortion** – No Licensee shall use the Work in a manner that distorts, mutilates, or misrepresents the original content in a way that harms the Contributor’s honour, reputation, or scientific integrity. *Commentary: Prevents bad‑faith alterations that could mislead the scientific community.*  
+
+**5.3 Integrity Safeguard** – If a derivative work seriously misrepresents the original findings, the Contributor may demand correction, retraction, or removal of the derivative from any platform, and the Repository Operator shall act expeditiously to take down the offending material. *Commentary: Protects the personal and reputational interests of authors, especially for raw scientific concepts where commercial exploitation may be absent.*  
+
+---
+
+## 6. Commercial Use – Core Flexibility Module  
+
+**6.1 NC‑Default** – Unless the Contributor expressly designates the Work as “Commercial‑Allowed”, the default assumption is that the Work may only be used for Non‑Commercial purposes as defined in Section 4. *Commentary: Protects the Contributor’s intent while still allowing easy opt‑in for commercial exploitation.*  
+
+**6.2 Commercial‑Allowed** – If the Contributor designates the Work as “Commercial‑Allowed”, any Licensee may use the Work for Commercial purposes without requiring additional permission, provided that attribution and other conditions of this License are satisfied. *Commentary: Gives Contributors control over monetization while preserving the default openness for non‑commercial innovation.*  
+
+**6.3 Open Business Exception** – Use of the Work by an entity or individual shall be considered Non‑Commercial if all of the following conditions are met:
+
+  - (a) the entity’s total annual gross revenue (or individual’s gross income from all sources) does not exceed USD 500,000 in the most recently completed fiscal year;
+  - (b) the Work is not sold, licensed, or integrated into any revenue‑generating service, whether as a standalone product or as part of a bundle (e.g., SaaS, API, paid subscription);
+  - (c) the use is primarily for research, educational, or charitable purposes.
+
+*Commentary: Captures the vast majority of academic labs, individual researchers, and small‑scale innovators, while protecting against exploitation by medium or large corporations.*  
+
+---
+
+## 7. Derivative Works and Share‑Alike Options (Flexibility)  
+
+**7.1 Selection of License Tier** – At the time of deposit, the Contributor shall select one (or both) of the following derivative‑work options: (a) **BY** – attribution‑only; (b) **SA** – share‑alike. The selection shall be recorded in the Work’s metadata. *Commentary: The BY option mirrors CC‑BY, allowing maximum reuse while preserving credit; the SA option encourages collaborative, open‑source style sharing.*  
+
+**7.2 BY Option** – If the Contributor selects the BY option, any Adaptation shall be permitted so long as it includes the required attribution and complies with the commercial‑use tier selected at deposit. No further conditions apply. *Commentary: Provides maximum reuse while preserving credit.*  
+
+**7.3 SA Option** – If the Contributor selects the SA option, any Adaptation shall be required to be distributed under the same license terms, including the same commercial‑use tier and attribution requirements. *Commentary: Encourages collaborative, open‑source style sharing while preventing downstream works from imposing more restrictive terms.*  
+
+**7.4 Scope of Adaptation for SA** – **7.4 Scope of Adaptation for SA** – For the purpose of the SA option, an “Adaptation” requires substantive modification of the Work’s structure, data, or methodology. Simple aggregation (e.g., inclusion of a citation in a bibliography, use of a table or chart without modification) does not constitute an Adaptation and does not trigger the SA requirement. *Commentary: Avoids unintended SA triggers for standard scholarly practices.*  
+
+---
+
+## 8. Idea Protection and Priority Evidence  
+
+**8.1 Priority Evidence Covenant** – Upon depositing a Work, the Repository shall create a timestamped, immutable record comprising:
+  - a cryptographic hash (SHA‑256) of the Work package (content + license + metadata);
+  - a trusted timestamp issued in accordance with IETF RFC 3161 (or an equivalent standard recognized under applicable electronic signature laws, such as the EU eIDAS Regulation or the U.S. ESIGN Act).
+
+The record shall serve as public evidence of priority. All Users shall be bound by the covenant not to claim independent origination of the identical idea if they accessed it via the Repository. This covenant shall be interpreted as a contractual estoppel.
+
+**8.2 Non‑Waiver of Patent Rights** – This covenant does not constitute a patent grant or waiver; it merely provides evidence of prior art. Contributors may, at any later time, elect to pursue patent protection or licensing for the underlying idea. *Commentary: Separates idea priority from patent rights, preserving the open‑access ethos.*  
+
+---
+
+## 9. Prohibition of Digital Handcuffs  
+
+**9.1 Ban on DRM / TPM** – No Licensee shall apply Digital Rights Management (DRM) or any Technological Protection Measures to restrict the exercise of the rights granted under this License. *Commentary: Ensures that the open‑science principle is not undermined by hidden usage controls.*  
+
+**9.2 Parallel Unrestricted Distribution** – If a Licensee nevertheless employs DRM to limit access to a derivative work, the Licensee shall, within a reasonable time after notice, provide an unrestricted, full‑content copy of the derivative to the Repository or a designated open archive. *Commentary: Ensures that DRM does not permanently block open access, preserving the Repository’s mission.*  
+
+---
+
+## 10. Repository Operator Rights and Immunities  
+
+**10.1 Hosting and Redistribution Rights** – The Repository Operator shall retain a perpetual, irrevocable (except as required by law) right to host, archive, and redistribute any Work, even if the Contributor later withdraws the Work from the Repository. *Commentary: Ensures continuity of the public record and prevents loss of historical scientific contributions.*  
+
+**10.2 Immunity from Liability for User‑Generated Derivatives** – The Operator shall not be liable for any damages, losses, or injuries arising from the creation, modification, or use of derivative works by Licensees, provided the Operator maintains an effective abuse‑reporting system and acts expeditiously to address valid complaints. *Commentary: Encourages platforms to host and archive content without fear of liability for third‑party misuse.*  
+
+---
+
+## 11. Enforcement, Anti‑Plagiarism, and Remedies  
+
+**11.1 Enforcement Rights** – Both the Contributor and the Repository Operator shall have the right to enforce all provisions of this License, including the right to seek injunctive relief, damages, and specific performance. *Commentary: Joint enforcement rights ensure that any breach can be remedied regardless of who holds which role.*  
+
+**11.2 Mandatory Low‑Cost Dispute Resolution** – Any dispute arising under this License shall be first resolved through a mandatory, low‑cost, binding arbitration process administered by the PIRW Steward. If the dispute cannot be resolved to the satisfaction of the parties, the matter may be escalated to traditional courts for injunctive relief only. *Commentary: Keeps disputes affordable and resolvable, maintaining community trust.*  
+
+**11.3 Automatic Termination for Breach** – Any material breach of this License by a Licensee—including but not limited to failure to provide proper attribution, unauthorized commercial use, or distortion of the Work—shall result in the automatic termination of all rights granted under this License, **subject to reinstatement as provided in Section 11.5**. *Commentary: Prompt termination prevents further misuse and signals the seriousness of violations.*  
+
+**11.4 Attribution Falsification Exception** – Any removal, alteration, or falsification of attribution shall be deemed an incurable breach, resulting in immediate termination of all rights. *Commentary: Preserves the integrity of the attribution chain.*  
+
+**11.5 Cure Period and Reinstatement** – Upon notice of a breach (other than an incurable breach under Section 11.4), the Licensee shall have a reasonable cure period to remedy the violation. If cure is not achieved, the Licensor may terminate. For breaches resulting from egregious misrepresentation of the Work, reinstatement shall be conditioned upon a public acknowledgment of the breach by the Licensee. *Commentary: Provides a second‑chance mechanism for most violations while preserving the integrity of the attribution chain.*  
+
+---
+
+## 12. Disclaimers and Liability Caps (Scientific Honesty)  
+
+**12.1 Disclaimer of Warranties** – As used in the description of each Work, the terms “as‑is”, “as‑available”, “without warranty”, and similar expressions shall indicate that no warranty of any kind, whether express, implied, or otherwise, is made with respect to the Work or the accuracy of any content therein. *Commentary: Acknowledges that scientific ideas and data may be incomplete, preliminary, or superseded.*  
+
+**12.2 Limitation of Liability** – The Contributor shall not be liable for any incidental, consequential, special, or punitive damages arising from the use of the Work, except to the maximum extent permitted by law. *Commentary: Limiting liability acknowledges that the Repository cannot control how third parties may misuse the content.*  
+
+**12.3 Exclusion of Fraudulent Conduct** – Notwithstanding the foregoing limitation, the Contributor shall remain liable for any fraudulent, willful, or knowing misrepresentation of data or findings in the Work. *Commentary: This carve‑out ensures that intentional deception cannot be shielded by the liability limitation.*  
+
+---
+
+## 13. License Versioning, Upgrade, and Interpretations  
+
+**13.1 Steward‑Issued Revisions** – The PIRW Steward may, from time to time, issue revised versions of this License (the “Updated License”). Each Updated License shall be explicitly versioned (e.g., 1.0, 1.1, etc.) and shall be backward‑compatible with prior Versions, ensuring that Works deposited under earlier Versions remain usable under the terms in effect at the time of deposit. *Commentary: Allows Contributors to benefit from future refinements without administrative overhead.*  
+
+**13.2 Opt‑In for Later Versions** – Contributors may, at the time of deposit, select the clause “[opt‑in] to the latest version of this License” which shall automatically apply any future Updates without requiring re‑deposit. *Commentary: Enables Contributors to stay current with the latest policy while preserving existing rights.*  
+
+---
+
+## 14. Metadata and Machine‑Readable Compliance Tags  
+
+**14.1 Standardized Metadata Template** – Each Work shall be accompanied by a standardized metadata record containing at least the following mandatory fields:  
+
+- **identifier** (DOI/URI)  
+- **contributor name(s) and affiliation(s)**  
+- **license version** (e.g., “PIRW‑ACL‑1.0”)  
+- **commercial‑use tier** (“NC‑Default” or “Commercial‑Allowed”)  
+- **derivative‑work option(s)** (“BY”, “SA”, or “BY‑SA”)  
+- **attribution format identifier** (MIME type for machine‑readable attribution)  
+- **cryptographic hash** of the Work package (SHA‑256)  
+- **timestamp of deposit** (ISO 8601)  
+
+*Commentary: Enables automated indexing, compliance checking, and proper attribution across platforms.*  
+
+**14.2 License Chooser Output** – When a User selects a Work via the Repository’s “License Chooser”, the interface shall display both the full human‑readable text of the applicable License version and a machine‑readable representation (e.g., JSON‑LD) containing the metadata fields listed above. *Commentary: Provides both formats so developers can programmatically enforce the terms while end‑users can understand the legal context.*  
+
+---
+
+## 15. Survival and Severability  
+
+**15.1 Survival of Core Obligations** – The following obligations shall survive any termination of this License:  
+
+- the attribution requirement;  
+- the moral‑rights and integrity protections;  
+- the prohibition on DRM and the parallel‑distribution covenant.  
+
+*Commentary: These core duties are essential to preserve credit, integrity, and open access even if the license relationship ends.*  
+
+**15.2 Severability** – If any provision of this License is held to be invalid or unenforceable, the remainder of the provisions shall continue in full force and effect. The Steward may issue an interpretative resolution to fill any gaps left by invalid provisions. *Commentary: Ensures that no single clause can invalidate the entire license framework.*  
+
+---
+
+## 16. Redundancy by Design (Intentional Overlap)  
+
+**16.1 Multiple Safeguards for Attribution** – Attribution is protected through (i) the unconditional read‑and‑share grant, (ii) the explicit attribution requirement in Section 4, (iii) the moral‑rights clause, (iv) the machine‑readable metadata requirement, and (v) the automatic termination for falsification. *Commentary: Redundant protection makes it difficult for a Licensee to evade obligations through clever loopholes.*  
+
+**16.2 Non‑Commercial Reinforcement** – The NC‑Default, the Non‑Commercial safe‑harbour provisions, the Open Business Exception, and the DRM prohibition all converge to restrict commercial exploitation without requiring separate carve‑outs. *Commentary: Overlapping restrictions create a robust barrier against unintended commercial use.*  
+
+**16.3 Integrity Safeguards** – The moral‑rights clause, the anti‑distortion rule, the take‑down mechanism, and the cumulative attribution chain all aim to preserve the scientific integrity of the Work. *Commentary: Layered integrity protections guard against misrepresentation from multiple angles.*  
+
+---
+
+## 17. Miscellaneous  
+
+**17.1 Governing Law** – This License shall be governed by the laws of Switzerland, without regard to its conflict‑of‑law principles. If no governing law is specified in a particular Work’s metadata, the laws of Switzerland shall apply by default. Any dispute that cannot be resolved through the mandatory arbitration under Section 11.2 shall be submitted to the exclusive jurisdiction of the ordinary courts of Zurich, Switzerland.*  
+
+**17.2 Entire Agreement** – This License constitutes the entire agreement between the parties concerning the scope, rights, and obligations related to the Work. *Commentary: An explicit entire‑agreement clause prevents contradictory external agreements.*  
+
+**17.3 Counter‑Notice** – In the event of a claim under this License, each party may provide a counter‑notice to the other party, setting forth the basis for the claim or defense. *Commentary: Aligns with standard arbitration practice.*  
+
+**17.4 Rescission** – Either party may rescind this License if the other party materially breaches a provision and fails to cure within the period specified in Section 11.5. *Commentary: Provides a remedy for persistent non‑compliance.*  
+
+**17.5 Amendments by Steward** – The Steward may, by written notice to all Users, amend any clause of this License, provided that such amendment is versioned and backward‑compatible. *Commentary: Formalizes the process for evolving the license framework.*  
+
+**17.6 Termination for Violation of Law** – If the use of a Work violates any applicable law or regulation, the License shall terminate automatically, and the Contributor shall not be liable for any such violation. *Commentary: Acknowledges that the License cannot override mandatory legal requirements.*  
+
+---
+
+SPDX-License-Identifier: LicenseRef-PIRW-ACL-1.0
+
+---  
