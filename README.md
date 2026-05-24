@@ -54,7 +54,7 @@ Attribution, commercial restrictions, and integrity protections are enforced thr
 ```text
 SPDX-License-Identifier: LicenseRef-PIRW-ACL-1.0
 License-Tier: NC-Default + BY
-License-URL: https://github.com/<YOUR-ORG>/pirw-license/blob/main/LICENSE
+License-URL: https://github.com/Patcex-studio/PIRW-ACL-lIcense/blob/main/LICENSE
 ```
 
 ### For integration
@@ -70,7 +70,7 @@ License-URL: https://github.com/<YOUR-ORG>/pirw-license/blob/main/LICENSE
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "license": "https://github.com/<YOUR-ORG>/pirw-license/blob/main/LICENSE",
+  "license": "https://github.com/Patcex-studio/PIRW-ACL-lIcense/blob/main/LICENSE",
   "name": "Your Work Title",
   "version": "1.0",
   "licenseIdentifier": "LicenseRef-PIRW-ACL-1.0",
