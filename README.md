@@ -219,9 +219,9 @@ You may pursue patent protection later without contradiction (§8.2).
 ## Support & Governance
 
 **Report Issues or Request Clarification:**
-- [Commercial Waiver Request](issues/new?template=commercial-waiver.md)
-- [Compliance / Attribution Report](issues/new?template=compliance-issue.md)
-- [Discussions & Questions](discussions)
+- [Commercial Waiver Request](https://github.com/Patcex-studio/PIRW-ACL-lIcense/issues/new)
+- [Compliance / Attribution Report](https://github.com/Patcex-studio/PIRW-ACL-lIcense/issues/new)
+- [Discussions & Questions](https://github.com/Patcex-studio/PIRW-ACL-lIcense/discussions)
 
 **PIRW Steward & Dispute Resolution:**
 For low-cost arbitration and license interpretation, contact the PIRW Steward (details in LICENSE §11.2).
